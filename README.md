@@ -17,6 +17,7 @@
 - 💡 **Core Interests:** Software Development, Algorithms & Data Structures, Relational Databases, and Modern Web Architectures.
 - 🛠️ **Learning Philosophy:** Understanding concepts from the ground up rather than copying boilerplate code.
 - 🌐 **Portfolio Website:** [amyaspal.github.io](https://amyaspal.github.io/)
+- 🔥 **Current Challenge:** [180 Days of Code Tracker](https://github.com/amyaspal/180-days-of-code) (2.5 hrs daily hands-on coding)
 
 ---
 
