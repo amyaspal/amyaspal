@@ -1,10 +1,10 @@
 # Hi there, I'm Yashpal Singh 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amyaspal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://linkedin.com/in/amyaspal"><img src="https://img.shields.io/badge/LinkedIn-amyaspal-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" /></a>
-  <a href="mailto:am.yaspal@gmail.com"><img src="https://img.shields.io/badge/Email-am.yaspal%40gmail.com-red?style=flat&logo=gmail" alt="Email Badge" /></a>
-  <a href="https://amyaspal.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-brightgreen?style=flat&logo=google-chrome" alt="Portfolio Badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=amyaspal&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://linkedin.com/in/amyaspal"><img src="https://img.shields.io/badge/LinkedIn-amyaspal-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:am.yaspal@gmail.com"><img src="https://img.shields.io/badge/Email-am.yaspal%40gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="https://amyaspal.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-brightgreen?style=flat&logo=github" /></a>
 </p>
 
 ---
